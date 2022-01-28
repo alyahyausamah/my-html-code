@@ -1,0 +1,4 @@
+hello 
+this page created by usamah alyahya 
+the page have navbar ,images , video , cards, footer .
+make sure to change the location name 
